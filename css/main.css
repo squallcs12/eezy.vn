@@ -1,0 +1,12 @@
+#achievements {
+  margin-bottom: 30px;
+}
+#achievements img, #achievements svg {
+  float: left;
+  margin-right: 10px;
+}
+
+#team img {
+  float: left;
+  margin-right: 10px;
+}
